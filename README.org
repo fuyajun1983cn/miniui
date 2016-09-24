@@ -1,0 +1,11 @@
+#+TITLE: Virtual Screen
+
+* Goal
+ create a virtual screen, and showing a lot of funning stuff at will. 
+* Develop Plan [0/3]
+  
+  - [ ] init version, make it work on Windows and Linux.
+
+  - [ ] Design the plugin system, using lua as the plugin language.
+
+  - [ ] develop some cooling plugins.
